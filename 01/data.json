@@ -1,0 +1,22 @@
+{
+    "subjects": [
+        {
+            "subject": "Фехтование",
+            "time": "16:00 - 18:00",
+            "maxStudents": 10,
+            "currentStudents": 0
+        },
+        {
+            "subject": "Плавание",
+            "time": "18:30-20:00",
+            "maxStudents": 5,
+            "currentStudents": 0
+        },
+        {
+            "subject": "Бег",
+            "time": "17:30-19:30",
+            "maxStudents": 15,
+            "currentStudents": 0
+        }
+    ]
+}
